@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SmartAir-City\\backend\\SmartAirCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\services\\airqualityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:services\\airqualityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\hubs\\airqualityhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:hubs\\airqualityhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\models\\airquality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:models\\airquality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\services\\mqttsubscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:services\\mqttsubscriberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\services\\datanormalizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:services\\datanormalizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\services\\openaqliveclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:services\\openaqliveclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|c:\\smartair-city\\backend\\smartaircity\\controllers\\airqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AFF21-B635-3124-E282-433A280B4FA4}|SmartAirCity.csproj|solutionrelative:controllers\\airqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-14T03:48:04.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:59:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MqttSubscriberService.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\MqttSubscriberService.cs",
+              "RelativeDocumentMoniker": "Services\\MqttSubscriberService.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\MqttSubscriberService.cs",
+              "RelativeToolTip": "Services\\MqttSubscriberService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:56:34.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirQualityHub.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Hubs\\AirQualityHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\AirQualityHub.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Hubs\\AirQualityHub.cs",
+              "RelativeToolTip": "Hubs\\AirQualityHub.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:55:55.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:59:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AirQuality.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Models\\AirQuality.cs",
+              "RelativeDocumentMoniker": "Models\\AirQuality.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Models\\AirQuality.cs",
+              "RelativeToolTip": "Models\\AirQuality.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:56:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirQualityService.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\AirQualityService.cs",
+              "RelativeDocumentMoniker": "Services\\AirQualityService.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\AirQualityService.cs",
+              "RelativeToolTip": "Services\\AirQualityService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:56:20.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataNormalizationService.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\DataNormalizationService.cs",
+              "RelativeDocumentMoniker": "Services\\DataNormalizationService.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\DataNormalizationService.cs",
+              "RelativeToolTip": "Services\\DataNormalizationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:56:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:30:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OpenAQLiveClient.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\OpenAQLiveClient.cs",
+              "RelativeDocumentMoniker": "Services\\OpenAQLiveClient.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Services\\OpenAQLiveClient.cs",
+              "RelativeToolTip": "Services\\OpenAQLiveClient.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:56:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDbContext.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:55:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AirQualityController.cs",
+              "DocumentMoniker": "C:\\SmartAir-City\\backend\\SmartAirCity\\Controllers\\AirQualityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AirQualityController.cs",
+              "ToolTip": "C:\\SmartAir-City\\backend\\SmartAirCity\\Controllers\\AirQualityController.cs",
+              "RelativeToolTip": "Controllers\\AirQualityController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:55:30.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
